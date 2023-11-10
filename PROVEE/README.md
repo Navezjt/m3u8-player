@@ -1,0 +1,1 @@
+https://github.com/bharadwajpro/m3u8-player
